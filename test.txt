@@ -1,1 +1,3 @@
-nuevo texto 1
+Link de la diapositiva del taller de Git:
+
+tinyurl.com/tallergitunahur
